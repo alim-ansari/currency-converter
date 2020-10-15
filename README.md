@@ -7,7 +7,7 @@ Instructions:
 
 ## Output
 
-![Output of program](https://github.com/alim-ansari/currency-converter/blob/master/currency-converter-output.png)
+![Output of program](https://github.com/alim-ansari/currency-converter/blob/master/currency-converter-output.gif)
 How to Run:
 
 1.  Make sure you have installed java
